@@ -23,11 +23,16 @@ The dataset comprises a database with the following tables:
 * country
 
 ## Procedures Applied (SQL)
-Data Querying
-Data cleaning, filtering and summarizing
-Joining Tables
-Subqueries
-Common table expressions
+
+-Data Querying
+
+-Data cleaning, filtering and summarizing
+
+-Joining Tables
+
+-Subqueries
+
+-Common table expressions
 
 ## Key Findings
 
