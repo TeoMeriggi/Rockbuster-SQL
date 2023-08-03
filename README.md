@@ -21,3 +21,18 @@ The dataset comprises a database with the following tables:
 * address
 * city
 * country
+
+## Procedures Applied (SQL)
+Data Querying
+Data cleaning, filtering and summarizing
+Joining Tables
+Subqueries
+Common table expressions
+
+## Key Findings
+
+- The primary countries of interest are India, China, and Japan
+- Rockbuster should target markets that generate substantial revenue in genres like Sports, Science Fiction, Animation, Drama, and Comedy
+- Increasing marketing efforts in the Asia Pacific region will contribute to a rise in revenue.
+
+
